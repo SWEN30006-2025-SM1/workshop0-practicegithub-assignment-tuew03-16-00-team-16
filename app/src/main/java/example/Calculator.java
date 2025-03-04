@@ -20,4 +20,6 @@ public class Calculator {
         // TODO: Implement this method
         return 5;
     }
+
+    // Ray
 }
